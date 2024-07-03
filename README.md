@@ -10,4 +10,4 @@ For **Baseline comparison** have tried:
 3) Transformer "tahrirchi-bert-small" with 69% F1 macro average.
 
 **Further work**.
-Misclassified labels detected, review and label correction.
+Misclassified labels detected, review and label correction required.
