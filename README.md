@@ -9,5 +9,5 @@ For **Baseline comparison** have tried:
 2) "Logistic Regression" with model Embeddings reached 61% F1 macro average;
 3) Transformer "tahrirchi-bert-small" with 69% F1 macro average.
 
-Further work.
+**Further work**.
 Misclassified labels detected, review and label correction.
