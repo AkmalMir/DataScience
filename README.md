@@ -1,3 +1,5 @@
+**Text classification**
+
 **Dataset** translated from Huggingface emotion dataset load_dataset("emotion"), from English to Uzbek language with googletrans library.
 
 Fine-tuned and test with tahrirchi/tahrirchi-bert-small model, with 3 epochs, with memory profiling.
